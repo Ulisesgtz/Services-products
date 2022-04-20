@@ -1,0 +1,8 @@
+INSERT INTO products (name,price,create_at) VALUES('Apple',5000,NOW())
+INSERT INTO products (name,price,create_at) VALUES('Samsung',1200,NOW())
+INSERT INTO products (name,price,create_at) VALUES('Sony',35,NOW())
+INSERT INTO products (name,price,create_at) VALUES('Under Armor Pants',100,NOW())
+INSERT INTO products (name,price,create_at) VALUES('Smart Watch',25.52,NOW())
+INSERT INTO products (name,price,create_at) VALUES('Mazda',525400,NOW())
+INSERT INTO products (name,price,create_at) VALUES('Tesla',5871500,NOW())
+INSERT INTO products (name,price,create_at) VALUES('Ford',24500,NOW())
